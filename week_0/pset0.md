@@ -131,19 +131,19 @@ If you like reading from physical paper, you can get Al Sweigart's book on all m
 
 Deadline for guided cohort: April 1, 2024
 
-- [] Join the Nas Community
-- [] Get Access to WhatsApp groups
-- [] Go through the Orientation material
-- [] Create a Medium account
-- [] Follow *The Scrappy Project* Medium Publication
-- [] Create a dev.to account
-- [] Create a Kaggle account
-- [] Follow Rounak Banik on Kaggle
-- [] Install git
-- [] Create a GitHub account
-- [] Star the TSP DSAI repository
-- [] Install VS Code
-- [] Create your personal DSAI repository
+- [ ] Join the Nas Community
+- [ ] Get Access to WhatsApp groups
+- [ ] Go through the Orientation material
+- [ ] Create a Medium account
+- [ ] Follow *The Scrappy Project* Medium Publication
+- [ ] Create a dev.to account
+- [ ] Create a Kaggle account
+- [ ] Follow Rounak Banik on Kaggle
+- [ ] Install git
+- [ ] Create a GitHub account
+- [ ] Star the TSP DSAI repository
+- [ ] Install VS Code
+- [ ] Create your personal DSAI repository
 
 
 
