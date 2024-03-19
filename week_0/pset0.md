@@ -22,7 +22,7 @@ Without any further ado, let's begin!
 
 TSP DS & AI course is **free and open to everyone!** To join, simply fill up an application on [Nas](https://nas.io/the-scrappy-project). Post approval, you will be invited to join a WhatsApp group...
 
-### Step 1: Get access to the relevant WhatsApp groups
+### Step 2: Get access to the relevant WhatsApp groups
 
 Our primary mode of communication is going to be WhatsApp. Once you've been approved on Nas, you will receive an invitation to join the *TSP DS/AI All* WhatsApp group which is part of *The Scrappy Project* community.
 
@@ -38,23 +38,23 @@ To summarize, you will need access to the following groups depending on your coh
 1. **Guided**: All, Guided and (optionally) Self-Paced
 2. **Self-Paced**: All and Self-Paced
 
-### Step 2: Get access to the Live Recordings
+### Step 3: Get access to the Live Recordings
 
 Every session conducted as part of the DS & AI course will be recorded. You can then view/revisit them at your leisure. The recordings are hosted on Google Drive and you will find the link pinned to the *All* WhatsApp group.
 
-### Step 3: Watch the Orientation
+### Step 4: Watch the Orientation
 
 If you didn't get an opportunity to attend the live orientation session conducted on March 24, 2024 (Sunday), please watch the recording of the session.
 
 The Orientation walks through the rationale for creating this course, the syllabus, ways of working, tips to succeed, and much more. You can also find slides used in this session as a PDF in the `week_0` folder.
 
-### Step 4: Create accounts on Medium and Dev.to
+### Step 5: Create accounts on Medium and Dev.to
 
 Almost every problem set will involve tasks that will require you to publish and share your work on a public platform. The two platforms that we recommend you post to are [Medium](https://medium.com/) and [dev.to](https://dev.to/). Go ahead and create accounts on these platforms, if you haven't already.
 
 We will be constantly viewing the work you share with us. The articles we like best will be published on *The Scrappy Project* [Medium publication](https://medium.com/). Definitely give us a follow, and keep track of amazing content produced by fellow students.
 
-### Step 5: Create an account on Kaggle
+### Step 6: Create an account on Kaggle
 
 Kaggle is the largest online community of data scientists and AI researchers. We will be using Kaggle extensively to download datasets, read notebooks, participate in competitions and also contribute along the same lines.
 
@@ -62,7 +62,7 @@ You can create a free account on Kaggle [here](https://www.kaggle.com/). Once yo
 
 Also, while you're there, [do give your instructor a follow](https://www.kaggle.com/rounakbanik)!
 
-### Step 6: Install git on your local system
+### Step 7: Install git on your local system
 
 Git is a version control system we will be using extensively. The document that you're reading right now, and the project that it is a part of is all being controlled by git.
 
@@ -70,7 +70,11 @@ Any serious organization requires its software engineers, data scientists and ev
 
 For the time being, you can install git locally for your machine using the instructions available [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
-### Step 7: Create a GitHub Account
+### Step 8: Create a GitHub Account
+
+<div align="center">
+    <img src="../images/github.webp" height="300">
+</div>
 
 Unless you've been living under a rock, you've probably heard of [GitHub](https://github.com). It's a platform that hosts git projects (or repositories). This document and the project it is contained in are hosted on GitHub and chances are you're viewing this on GitHub too.
 
@@ -78,7 +82,7 @@ Go ahead and create a free account on GitHub [here](https://github.com).
 
 Once you've created an account, make sure you star the [DS & AI repository](https://github.com/The-Scrappy-Project/tsp_dsai). 
 
-### Step 8: Install VS Code on your local system
+### Step 9: Install VS Code on your local system
 
 In order to write and run code, we will require a code editor. The one that we will be using in this course and strongly recommend thay you use too is Visual Studio Code. It is free to download and is available [here](https://code.visualstudio.com/download).
 
@@ -116,6 +120,10 @@ If you're feeling overwhelmed by the amount of terminology being thrown at you, 
 The first office hour will involve a session where we walk you through both of these tools. If you still feel like you need more help, do not hesitate to reach out on WhatsApp! Git is notorious for not being very user friendly so it's totally okay if it goes over your head the first few times. It did for us!
 
 ## (Optional) Get a head start on Python
+
+<div align="center">
+    <img src="../images/python.png" height="300">
+</div>
 
 If you do not have any experience programming in Python, it is a good idea to get a headstart. The following is content that is earmarked for weeks 1 and 2, but go ahead and give yourself an advantage should you think you need it.
 
