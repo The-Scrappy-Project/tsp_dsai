@@ -137,7 +137,7 @@ If you like reading from physical paper, you can get Al Sweigart's book on all m
 
 ## Tasks for the week
 
-Deadline for guided cohort: April 1, 2024
+Deadline for guided cohort: April 8, 2024
 
 - [ ] Join the Nas Community
 - [ ] Get Access to WhatsApp groups
