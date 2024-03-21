@@ -52,7 +52,7 @@ The Orientation walks through the rationale for creating this course, the syllab
 
 Almost every problem set will involve tasks that will require you to publish and share your work on a public platform. The two platforms that we recommend you post to are [Medium](https://medium.com/) and [dev.to](https://dev.to/). Go ahead and create accounts on these platforms, if you haven't already.
 
-We will be constantly viewing the work you share with us. The articles we like best will be published on *The Scrappy Project* [Medium publication](https://medium.com/). Definitely give us a follow, and keep track of amazing content produced by fellow students.
+We will be constantly viewing the work you share with us. The articles we like best will be published on *The Scrappy Project* [Medium publication](https://medium.com/the-scrappy-project). Definitely give us a follow, and keep track of amazing content produced by fellow students.
 
 ### Step 6: Create an account on Kaggle
 
@@ -85,6 +85,17 @@ Once you've created an account, make sure you star the [DS & AI repository](http
 ### Step 9: Install VS Code on your local system
 
 In order to write and run code, we will require a code editor. The one that we will be using in this course and strongly recommend thay you use too is Visual Studio Code. It is free to download and is available [here](https://code.visualstudio.com/download).
+
+## Task: Create a study group
+
+As you induct yourself into this course, we require that you find 2-3 other students to form a study group with. This group will have two main purposes:
+1. To keep everyone accountable on the progress you're making in the course
+2. Peer review on problem sets
+3. Work together on projects where group work is allowed (including the Capstone)
+
+Study groups are mandatory for the Guided cohort. Post orientation, an Excel sheet will be made available where you need to inform us about your group and its participants.
+
+Although not required, it is strongly recommended that students in the self-paced cohort also organize themselves into study groups and hold each other accountable. The amount of instructor feedback for this cohort is going to be limited so we suggest you overindex on peer review. A separate Excel sheet will be shared on the *Self Paced* WhatsApp group containing list of people looking for groups.
 
 ## Week 0 Project
 
@@ -151,6 +162,7 @@ Deadline for guided cohort: April 8, 2024
 - [ ] Create a GitHub account
 - [ ] Star the TSP DSAI repository
 - [ ] Install VS Code
+- [ ] Form a study group
 - [ ] Create your personal DSAI repository
 
 
