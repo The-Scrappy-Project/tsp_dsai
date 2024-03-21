@@ -1,4 +1,4 @@
-# Problem Set 0
+# Problem Set 0: Logistics, Git, and Markdown
 
 <div align="center">
     <img src="../images/welcome.gif">
