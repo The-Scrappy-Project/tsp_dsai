@@ -1,5 +1,5 @@
 # The Scrappy Project- DS and AI Course
 
-Welcome to the official repository of TSP's Data Science & AI course! 
+Welcome to the official repository of TSP's Data Science & AI course! This is awesome!
 
 TBD: Add information on logistics and problem sets.
