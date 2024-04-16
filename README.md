@@ -1,7 +1,7 @@
 # The Scrappy Project- DS and AI Course
 
 <div align="center">
-    <img src="images/banner.jpg" height="600">
+    <img src="images/banner.jpg" height="400">
 </div>
 
 ## Introduction
@@ -35,13 +35,13 @@ As stated earlier, this course will teach you everything you need to get started
 It has also been designed to be supercharge professionals who work with a lot of data (consultants, product managers, entrepreneurs, etc.)
 
 <div align="center">
-    <img src="images/syllabus.png" height="600">
+    <img src="images/syllabus.png" height="400">
 </div>
 
 Here is a sneakpeek of the things you'll be able to do post the course:
 
 <div align="center">
-    <img src="images/skills.png" height="600">
+    <img src="images/skills.png" height="400">
 </div>
 
 ## Contributing
