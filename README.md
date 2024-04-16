@@ -48,17 +48,17 @@ Here is a sneakpeek of the things you'll be able to do post the course:
 
 TSP DS & AI course is free of cost and open to everyone! Here are a few ways you can contribute to our effort of making data science & AI open and accessible to everyone.
 
-#### Give a talk as a guest speaker
+### Give a talk as a guest speaker
 
 Every few weeks, we invite a guest speaker to conduct a talk/workshop on something topical to AI and data science.
 
 If you are a practicing data scientist with 3+ years of work experience or a leader/entrepreneur working in AI, please do reach out to us for a possibility of collaborating.
 
-#### Share this repository in your circles
+### Share this repository in your circles
 
 You could help us out by giving us a shoutout in your circles and inviting your peers/colleagues to join the course. 
 
-#### Collaborate on content creation and advertising
+### Collaborate on content creation and advertising
 
 If you're a tech influencer and you'd like to collaborate on the creation of branded content or advertising, do reach out to us! Please note that given the free nature of this course, we're unable to participate in collaboration that involve payment.
 
