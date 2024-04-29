@@ -36,6 +36,14 @@ There are plenty of amazing courses and books on introductory computer science b
 
 CS50 covers topics beyond what is required for this introductory course on data science (such as algorithms, C, HTML & CSS, Cybersecurity, web development, etc). However, it is worth investing the 12 or so weeks required to complete the course, should you have the time. That said, you won't be at a disadvantage if you don't; simply completing the required components of this course is sufficient to get you to the end.
 
+## (Optional) Take Stanford's Code in Place
+
+<div align="center">
+    <img src="../images/codeinplace.png" height="300">
+</div>
+
+If you're looking for an extensive, teacher-led course focused exclusively on Python programming, consider applying to Stanford's [Code In Place](https://codeinplace.stanford.edu/) class. Like with CS50, taking this class is strictly optional and it covers topics that you don't really need to excel at this course.
+
 ## Practice Problems
 
 The best way to get good at Python programming is by writing lots of programs. Once you've gone through the required materials above, solve the problems below. The problems are of increasing complexity, so I suggest you do them chronologically.
@@ -163,7 +171,9 @@ In the project repository you created as part of Problem Set 0, create a folder 
 
 Alright now let's move on to bigger things. Solve the two problems below. They're mandatory for the guided cohort, regardless of your Python experience.
 
-### Challenge 1: Compute 1000!
+### Challenge 1: Compute 1000! using long multiplication
+
+**Update:** We checked and turns out Python can actually compute 1000! natively! We still encourage you to write code that implements the long multiplication technique taught in primary schools.
 
 In one of the problems in the previous section, you were asked to write a function that computes the factorial of a number. However, that function is only good for relatively small numbers. Factorials have a tendency to grow extremely rapidly such even 20! is more than 2 billion billion!
 
