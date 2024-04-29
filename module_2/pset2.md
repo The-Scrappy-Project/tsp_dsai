@@ -1,7 +1,7 @@
 # Problem Set 2: Generative AI & Prompt Engineering
 
-<div style="width:480px" align="center">
-    <iframe allow="fullscreen" frameBorder="0" height="360" src="https://giphy.com/embed/AtemeKRsPRVESJ8zRq/video" width="480"></iframe>
+<div align="center">
+    <img src="../images/ai.gif" height="400">
 </div>
 
 ## Introduction
