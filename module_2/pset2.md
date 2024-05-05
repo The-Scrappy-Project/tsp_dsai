@@ -62,9 +62,9 @@ If you ask your function who the Prime Minister of UK is, it'll tell you *Boris 
 
 From Wikipedia...
 
-*20Q is a computerized game of twenty questions that began as a test in artificial intelligence (AI). It was invented by Robin Burgener in 1988. The game was made handheld by Radica in 2003, but was discontinued in 2011 because Techno Source took the license for 20Q handheld devices.
+*20Q is a computerized game of twenty questions that began as a test in artificial intelligence (AI). It was invented by Robin Burgener in 1988. The game was made handheld by Radica in 2003, but was discontinued in 2011 because Techno Source took the license for 20Q handheld devices.*
 
-The game 20Q is based on the spoken parlor game known as twenty questions, and is both a website and a handheld device. 20Q asks the player to think of something and will then try to guess what they are thinking of with twenty yes-or-no questions. If it fails to guess in 20 questions, it will ask an additional 5 questions. If it fails to guess even with 25 (or 30) questions, the player is declared the winner. Sometimes the first guess of the object can be asked at question 14.*
+*The game 20Q is based on the spoken parlor game known as twenty questions, and is both a website and a handheld device. 20Q asks the player to think of something and will then try to guess what they are thinking of with twenty yes-or-no questions. If it fails to guess in 20 questions, it will ask an additional 5 questions. If it fails to guess even with 25 (or 30) questions, the player is declared the winner. Sometimes the first guess of the object can be asked at question 14.*
 
 Your task is to implement the twenty questions game using ChatGPT. The way this works is you will think of an entity (celebrity, book, movie, etc.) and ChatGPT will have 20 questions or fewer to guess what you're thinking of.
 
@@ -74,7 +74,7 @@ In Problem Set 1, we asked you to write a Python script that downloads xkcd comi
 
 Write a script that prompts GPT to write a correct xkcd program and then execute the program within your script.
 
-## Problem 5: Create a Sentiment Classifier
+### Problem 5: Create a Sentiment Classifier
 
 A sentiment classifier is a machine learning model that takes in a piece of text as an input, and outputs the sentiment of the text: typically positive, negative, or neutral.
 
