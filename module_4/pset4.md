@@ -52,11 +52,11 @@ My personal preference is for (2). Regardless of how you do it, you should be ab
 $ jupyter notebook
 ```
 
-### Problem Set 2: Complete exercises 1-5 from Brandon Rhodes' tutorial
+### Problem 2: Complete exercises 1-5 from Brandon Rhodes' tutorial
 
 This one is fairly simple. As part of the tutorial, Brandon shares a [repository](https://github.com/brandon-rhodes/pycon-pandas-tutorial) that contains 5 exercise notebooks. Your task, therefore, is to complete these five exercises as you follow the tutorial.
 
-### Problem Set 3: Create the ultimate guide to Pokemon
+### Problem 3: Create the ultimate guide to Pokemon
 
 <div align="center">
     <img src="../images/pokemon.jpeg" height="400">
