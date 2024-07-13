@@ -58,7 +58,7 @@ The data is available as a [Kaggle dataset](https://www.kaggle.com/datasets/zhan
 
 ### Problem Set 2: Racial Discrimination in Job Interviews
 
-In this folder, you will find a dataset `race.csv` that was created by scientists as part of an article (Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination)[https://www.aeaweb.org/articles?id=10.1257/0002828042002561] published in the American Economic Review.
+In this folder, you will find a dataset `race.csv` that was created by scientists as part of an article[Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination](https://www.aeaweb.org/articles?id=10.1257/0002828042002561) published in the American Economic Review.
 
 Perform a detailed EDA of this dataset. Next, find out if race plays a role in job interview callbacks. In other words, is a black person equally likely to get invited to an interview than a white person? Answer this question using two tests:
 1. T-Test
