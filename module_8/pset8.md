@@ -45,7 +45,6 @@ Therefore, we are going to take a practical approach to machine learning, with a
 8. Basic Natural Language Processing (n-grams and tf-idf models)
 9. Linear regression
 10. Unsupervised learning algorithms such as k-means clustering and DBSCAN.
-11. Model Explainability and SHAP values.
 
 That is admittedly a lot to cover. I recommend the following resources to learn about these topics:
 
