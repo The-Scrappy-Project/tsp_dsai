@@ -68,7 +68,7 @@ Before you start with the practice problems, here is a checklist of things you n
 ### Problem 1: The Titanic
 
 <div align="center">
-    <img src="../images/titanic.jpeg" height="250">
+    <img src="../images/titanic.jpeg" height="350">
 </div>
 
 A rite of passage for a lot of data scientists around the world is the Titanic classification problem. This problem is usually considered the *Hello World* of Machine Learning.
@@ -80,7 +80,7 @@ You can find the data and relevant context on Kaggle [here](https://www.kaggle.c
 ### Problem 2: Boston Housing
 
 <div align="center">
-    <img src="../images/housing.jpeg" height="250">
+    <img src="../images/housing.jpeg" height="350">
 </div>
 
 Titanic is a *classification* problem. In the Boston housing problem, you're required to build a *regression model* that is capable of predicting house prices in a certain area. A regression model implies that the prediction is a continuous variable (price) as opposed to a discrete one (deceased/survived).
@@ -102,7 +102,7 @@ You will find the following articles helpful for this problem:
 ### Problem 4: Movie Recommendation Systems
 
 <div align="center">
-    <img src="../images/netflix.png" height="250">
+    <img src="../images/netflix.png" height="350">
 </div>
 
 Recommendation systems are everywhere, whether you're trying to find out what movie to watch next, what song to listen to, what book to read, or what item to purchase. In this problem, you will create recommendation systems that suggest movies based on movie's characteristics (content-based) and its ratings (collaborative filtering). You will use the movies dataset available [here](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset).
@@ -114,7 +114,7 @@ I will also be conducting an office hour on recommendation systems so make sure 
 ### Problem 5: Live Kaggle Competition
 
 <div align="center">
-    <img src="../images/mushroom.png" height="250">
+    <img src="../images/mushroom.png" height="350">
 </div>
 
 Your final task for this problem set is to participate in a Kaggle Playground Series competition. Kaggle conducts a beginner-friendly competition every month where you can compete with people around the world in building ML models.
