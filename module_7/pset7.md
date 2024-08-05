@@ -56,7 +56,7 @@ To test this, your company's software engineers have randomly pushed the old des
 
 The data is available as a [Kaggle dataset](https://www.kaggle.com/datasets/zhangluyuan/ab-testing). Conduct an EDA of the dataset and run a statistical test that can conclusively prove/disprove that the new design had an effect on conversions. Set alpha at 5%.
 
-### Problem Set 2: Racial Discrimination in Job Interviews
+### Problem 2: Racial Discrimination in Job Interviews
 
 In this folder, you will find a dataset `race.csv` that was created by scientists as part of an article[Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination](https://www.aeaweb.org/articles?id=10.1257/0002828042002561) published in the American Economic Review.
 
