@@ -97,6 +97,61 @@ The final deliverable is a design document that contains the logo, color palette
 
 If you're unsure how to go about creating the tool, be sure to attend the office hour on autonomous crews (or watch the recording once that's released).
 
+## Mini Capstone Project
+
+**In order to graduate and be considered an alum, it is mandatory that you submit a mini-capstone project for review**
+
+We've covered a LOT of ground in the first 6 modules, and it is now time for your first major *project*. For this mini-capstone, you can choose from one of the following options. In order to *pass*, it is mandatory that you check all requirements for that particular option. If you have any questions on if your project idea is acceptable, please reach out on the WhatsApp community.
+
+### Option 1: Weave a story with data
+
+<div align="center">
+    <img src="../images/dataviz.png" height="300">
+</div>
+
+In this project, you will choose/create a dataset in a field of your choosing, and you will submit a Jupyter notebook that narrates a story about the dataset, and communicates insights or findings that WOW the reader. 
+
+To inspire you here are a few stories that you can use as inspiration:
+1. [The World of TED Talks](https://www.kaggle.com/code/rounakbanik/ted-data-analysis)
+2. [The Story of Film](https://www.kaggle.com/code/rounakbanik/the-story-of-film)
+3. [Insights into the Data Science & ML Industry](https://www.kaggle.com/code/rounakbanik/data-science-faq)
+
+Here are the rules you must follow for your submission to be valid:
+
+1. You must use the `pandas` library for data wrangling.
+2. You must generate at least 5 different kinds of visualization using `matplotlib`, `seaborn` or `plotly`.
+3. Your dataset should contain at least 1000 rows across files. Toy datasets such as Iris and Titanic are not allowed. 
+4. Your document should be at least 1500 words, excluding code snippets.
+5. You must not plagiarize work that is already available on a platform like Kaggle. Using the same datasets is okay but the story you narrate must be original.
+6. Although not required, you're encouraged to create your own dataset either through web scraping or surveys. If your dataset is deemed valuable, I will help you get more visibility for it on social media.
+7. You are encouraged to choose a field that is interesting to you: football, video games, movies, fashion, etc. However, stray away of creating narratives about fictional worlds (for example, *Harry Potter* or *Pokemon* won't make for a strong submission).
+8. You can work in teams of up to 3 for this project.
+9. Your final submission should be in the form of a public Kaggle notebook.
+
+### Option 2: Create a superstar crew to perform a complex task
+
+<div align="center">
+    <img src="../images/robots.png" height="300">
+</div>
+
+The second option is to create an autonomous crew of GenAI agents that work together to perform a complex task (i.e what you've learned to do in this module).
+
+As you've seen already, these agents are extremely powerful and can perform super complex tasks with little to no human intervention. Think of a complex problem that you, your friends, or your colleagues solve on a day-to-day bases and assemble a crew that can handle that problem autonomously.
+
+Here are the rules you must follow for your submission to be valid:
+
+1. You must use `crewai` to create your crew.
+2. You must use at least three agents as part of your crew. These agents must perform three distinct tasks (or more).
+3. You must implement at least one tool from scratch.
+4. You can work in teams of up to 3 for this project.
+5. Your final submission should be in the form of a 2-5 min video demonstrating how your crew works on real-world inputs.
+
+### Mode of submission
+
+Depending on which option you choose, you will send a Kaggle notebook or a demo video over email to [instructor@thescrappyproject.co](mailto:instructor@thescrappyproject.co). Use `Mini Capstone Project: <Member 1> <Member 2> <Member 3>` as your subject line.
+
+**Also, notify us of your submission on WhatsApp. If you don't do this, we can't guarantee that your submission will be evaluated.**
+
 ## Office Hours
 
 In the office hours related to this module, I'll cover the following:
@@ -108,3 +163,4 @@ In the office hours related to this module, I'll cover the following:
 Deadline for guided cohort: August 31, 2024
 
 - [ ] Complete practice problems and receive/give peer review
+- [ ] Mini Capstone Project

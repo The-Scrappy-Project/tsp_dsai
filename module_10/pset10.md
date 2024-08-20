@@ -22,6 +22,10 @@ Before you start with the practice problems, here is a checklist of things you n
 
 TBD
 
+## Capstone Project
+
+TBD
+
 ## Office Hours
 
 In the office hours related to this module, I'll cover the following:
