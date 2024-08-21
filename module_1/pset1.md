@@ -201,7 +201,7 @@ Before Scrappy Project, our team worked on an NFT education project called [Scra
 
 Each squirrel has a unique combination of expression, fur, background, and clothes. For this challenge, your task is to identify the IDs of all squirrels that wear an astronaut suit among the first 2000 squirrels.
 
-Each squirrel has a JSON file associated with it. For instance, Scrappy Squirrel #1's JSON can be found at [https://scrappyart.s3.ap-south-1.amazonaws.com/json/1](https://scrappyart.s3.ap-south-1.amazonaws.com/json/1). Similarly, Scrappy Squirrel #2000 can be found at [https://scrappyart.s3.ap-south-1.amazonaws.com/json/5000](https://scrappyart.s3.ap-south-1.amazonaws.com/json/2000).
+Each squirrel has a JSON file associated with it. For instance, Scrappy Squirrel #1's JSON can be found at [https://scrappyart.s3.ap-south-1.amazonaws.com/json/1](https://scrappyart.s3.ap-south-1.amazonaws.com/json/1). Similarly, Scrappy Squirrel #2000 can be found at [https://scrappyart.s3.ap-south-1.amazonaws.com/json/2000](https://scrappyart.s3.ap-south-1.amazonaws.com/json/2000).
 
 If you visit this URL on a broswer, you should get output that looks something like this:
 
