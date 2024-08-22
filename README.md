@@ -1,5 +1,9 @@
 # The Scrappy Project- DS and AI Course
 
+**Get Started by joining our community! Link: [https://nas.io/the-scrappy-project](nas.io/the-scrappy-project)**
+
+<br>
+
 <div align="center">
     <img src="images/banner.jpg" height="400">
 </div>
